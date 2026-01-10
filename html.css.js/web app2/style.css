@@ -1,0 +1,11 @@
+.button{
+background-color: blue;
+color:white
+}
+.box{
+    margin: 10px;
+}
+.row{
+    display:flex;
+
+}
