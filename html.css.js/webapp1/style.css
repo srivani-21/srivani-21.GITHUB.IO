@@ -1,0 +1,12 @@
+.button{
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+    /* border: none; */
+}
+.account{
+    background-color: green;
+    color:white;
+    border-radius: 50px;
+
+}
